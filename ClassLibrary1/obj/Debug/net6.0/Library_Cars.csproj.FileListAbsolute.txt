@@ -1,0 +1,33 @@
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Library_Cars.deps.json
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Library_Cars.pdb
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.pdb
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Library_Cars.deps.json
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Library_Cars.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Library_Cars.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\bin\Debug\net6.0\Library_Cars.deps.json
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\bin\Debug\net6.0\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\bin\Debug\net6.0\Library_Cars.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\obj\Debug\net6.0\Library_Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\obj\Debug\net6.0\Library_Cars.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\obj\Debug\net6.0\Library_Cars.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\obj\Debug\net6.0\Library_Cars.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\obj\Debug\net6.0\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\obj\Debug\net6.0\refint\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\obj\Debug\net6.0\Library_Cars.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\ClassLibrary1\obj\Debug\net6.0\ref\Library_Cars.dll

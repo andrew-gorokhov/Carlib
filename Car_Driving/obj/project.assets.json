@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Library_Cars/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Library_Cars.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library_Cars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Library_Cars/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/Library_Cars.csproj",
+      "msbuildProject": "../ClassLibrary1/Library_Cars.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Library_Cars >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Андрей\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\VisualStudio\\Carlib\\Car_Driving\\Car_Driving.csproj",
+      "projectName": "Car_Driving",
+      "projectPath": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\VisualStudio\\Carlib\\Car_Driving\\Car_Driving.csproj",
+      "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\VisualStudio\\Carlib\\Car_Driving\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\VisualStudio\\Carlib\\ClassLibrary1\\Library_Cars.csproj": {
+              "projectPath": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\VisualStudio\\Carlib\\ClassLibrary1\\Library_Cars.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

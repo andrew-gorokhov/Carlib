@@ -1,0 +1,44 @@
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\bin\Debug\net6.0\Car_Driving.exe
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\bin\Debug\net6.0\Car_Driving.deps.json
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\bin\Debug\net6.0\Car_Driving.runtimeconfig.json
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\bin\Debug\net6.0\Car_Driving.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\bin\Debug\net6.0\Car_Driving.pdb
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\bin\Debug\net6.0\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\bin\Debug\net6.0\Library_Cars.pdb
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.csproj.CopyComplete
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\refint\Car_Driving.dll
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.pdb
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\СПО\Оператор ЭВМ и ВМ\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\ref\Car_Driving.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\refint\Car_Driving.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\ClassLibrary1\Car_Driving\obj\Debug\net6.0\Car_Driving.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\bin\Debug\net6.0\Car_Driving.exe
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\bin\Debug\net6.0\Car_Driving.deps.json
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\bin\Debug\net6.0\Car_Driving.runtimeconfig.json
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\bin\Debug\net6.0\Car_Driving.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\bin\Debug\net6.0\Car_Driving.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\bin\Debug\net6.0\Library_Cars.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\bin\Debug\net6.0\Library_Cars.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\Car_Driving.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\Car_Driving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\Car_Driving.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\Car_Driving.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\Car_Driving.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\Car_Driving.csproj.CopyComplete
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\Car_Driving.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\refint\Car_Driving.dll
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\Car_Driving.pdb
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\Car_Driving.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\СПО\Основы алгоритмизации\VisualStudio\Carlib\Car_Driving\obj\Debug\net6.0\ref\Car_Driving.dll
